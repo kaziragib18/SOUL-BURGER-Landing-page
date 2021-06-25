@@ -1,4 +1,6 @@
 # SOUL-BURGER-Landing-page
+This is a assignment for feeCodeCamp( ). I had to following these user story to build the landing page.
+
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 
 User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
