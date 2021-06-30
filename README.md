@@ -31,4 +31,4 @@ User Story #14: My product landing page should have at least one media query.
 
 User Story #15: My product landing page should utilize CSS flexbox at least once.
 
-Live demo: https://kaziragib18.github.io/SOUL-BURGER-Landing-page/
+Live demo: https://kaziragib18.github.io/Soul-Burger-Landing-page/
