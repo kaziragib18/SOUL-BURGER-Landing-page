@@ -141,9 +141,12 @@ nav ul li #order:hover {
 }
 
 /*   TOP ORDER BUTTON DESIGN  */
+
 #hero button:hover {
   background-color:rgb(168, 51, 31);
   cursor: pointer;
+}
+
 }
 
 #hero button a {
